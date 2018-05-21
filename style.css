@@ -1,0 +1,97 @@
+* {
+    *margin: 0px;
+    *padding: 0px;
+}
+
+div {
+    outline: 1px dotted red;
+}
+
+.purple {
+    color: purple;
+}
+
+.wrapper {
+    width: 970px;
+    height: 500px;
+    background-color: #1C345D;
+    font-family: 'Times New Roman';
+    margin: auto;
+    padding: 10px;
+    font-size: 15px;
+}
+
+h1 {
+    color: white;
+    padding: 10px;
+    background-color: red;
+    margin: auto;
+    font-size: 30px;
+    border-radius: 3px;
+    width: 95%;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.navigation {
+    background-color: #2A7D8C;
+    border-radius: 25px;
+    display: inline-block;
+    vertical-align: left;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.navigation a {
+    color: aqua;
+}
+
+.first-level li {
+    color: aqua;
+    margin-left: -1em;
+}
+
+.second-level li {
+    color: aqua;
+    margin-left: 0em;
+}
+
+.main-content {
+    background-color: #0E1822;
+    width: 70%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 25px;
+}
+
+.main-content p {
+    color: white;
+
+}
+
+.main-content a {
+    color: aqua;
+}
+
+.main-content ul {
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 15px;
+}
+
+.footer {
+    background-color: #5D6573;
+    border-radius: 25px;
+    padding: 10px;
+    color: white;
+}
+
+.footer a {
+    color: aqua;
+}
